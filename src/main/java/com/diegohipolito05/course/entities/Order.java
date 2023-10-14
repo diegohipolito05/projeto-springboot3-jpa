@@ -78,6 +78,10 @@ public class Order implements Serializable {
 		this.client = client;
 	}
 
+	public void setOrderStatus(Integer orderStatus) {
+		this.orderStatus = orderStatus;
+	}
+
 	@Override
 	public int hashCode() {
 		return Objects.hash(id);
