@@ -1,0 +1,1 @@
+Este é o projeto de manipulação de um banco de dados em java contendo cliente, pedidos e produtos. O projeto conta com um web serivice(backend) feito ultilizando Springboot3 e JPA. O projeto conta com um usuario para testes, um usuario para desenvolvimento e um usuario para o projeto em rede.
